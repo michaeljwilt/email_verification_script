@@ -1,9 +1,8 @@
 import smtplib
 
-# email_user = input("Enter your email address")
-# email_password = input("Enter your password")
-email_user = 'seelikemike@gmail.com'
-email_password = 'Cheetoh492#'
+# enter gmail login info
+email_user = input("Enter your email address")
+email_password = input("Enter your password")
 
 
 # inputs for verification
